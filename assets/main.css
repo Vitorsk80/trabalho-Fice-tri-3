@@ -1,0 +1,7 @@
+.triangulo-para-baixo {
+    width: 0; 
+    height: 0; 
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 25px solid #949396;
+  }
